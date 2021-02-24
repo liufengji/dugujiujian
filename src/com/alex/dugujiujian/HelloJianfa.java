@@ -6,6 +6,6 @@ public class HelloJianfa {
 		System.out.println("Hello dugujiujian - BBBBB");
 		System.out.println("Hello dugujiujian - BBBBB");
 		System.out.println("Hello dugujiujian - BBBBB");
-		System.out.println("Hello dugujiujian - BBBBB");
+		System.out.println("Hello dugujiujian - BBBffBB");
 	}
 }
